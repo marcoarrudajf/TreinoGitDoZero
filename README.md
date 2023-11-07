@@ -6,4 +6,4 @@ Mudando novamente:
 
 Comando git push;
 
-
+comando git pull
