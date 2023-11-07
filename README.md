@@ -4,5 +4,6 @@ Gravando mudanças aqui:
 
 Mudando novamente:
 
-trabalhando com log e restore;
+Comando git push;
+
 
